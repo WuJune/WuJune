@@ -22,7 +22,7 @@ Hi, I'm **WuJune**.
 * currently learning some Golang, Cpp, Python, Vue.
 
 <!-- * looking to collaborate on distributed storage or database. -->
-* intersted at and intended to learn distributed storage or database.
+* intersted at and intended to learn distributed storage/database.
 
 
 
