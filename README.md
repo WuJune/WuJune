@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![WuJune's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=WuJune&show_icons=true&count_private=true)
-<!-- ![这里写你的昵称's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=这里替换成你的 GitHub ID&layout=compact&hide_border=true&langs_count=10) -->
+![WuJune's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WuJune&layout=compact&hide_border=true&langs_count=10)
