@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 Hi, I'm **WuJune**.
 
-* currently working on BJUT MePro as a intern.
+* Currently working on BJUT MePro as a intern.
 
-* currently learning some Golang, Cpp, Python, Vue.
+* Currently learning some Golang, Cpp, Python, Vue.
 
 <!-- * looking to collaborate on distributed storage or database. -->
-* intersted at and intended to learn distributed storage/database.
+* Intersted at and intended to learn distributed storage/database.
 
 
 
