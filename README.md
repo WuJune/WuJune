@@ -27,7 +27,7 @@ Hi, I'm **WuJune**.
 
 
 
-![WuJune's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WuJune&layout=compact&langs_count=10)
+![WuJune's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WuJune&layout=compact&langs_count=10&count_private=true)
 
 
 <!-- [![WuJune's GitHub stats](https://github-readme-stats.vercel.app/api?username=WuJune)](https://github.com/anuraghazra/github-readme-stats) -->
