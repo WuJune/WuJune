@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 ### Hi there
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=WuJune.WuJune)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 <!--
 **WuJune/WuJune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
