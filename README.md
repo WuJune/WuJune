@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm *WuJune*.
+I'm **WuJune**.
+
 🔭 I’m currently working on BJUT MePro as a intern.
 
 🌱 I’m currently learning some Golang, Cpp, Python, Vue.
