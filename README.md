@@ -24,9 +24,9 @@ Hi, I'm **WuJune**.
 <!-- * looking to collaborate on distributed storage or database. -->
 * intersted at and intended to learn distributed storage or database.
 
-<!-- ![WuJune's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WuJune&layout=compact&langs_count=10) -->
+![WuJune's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WuJune&layout=compact&langs_count=10)
+
+
+<!-- [![WuJune's GitHub stats](https://github-readme-stats.vercel.app/api?username=WuJune)](https://github.com/anuraghazra/github-readme-stats) -->
 ![WuJune's GitHub stats](https://github-readme-stats.vercel.app/api?username=WuJune&hide=issues&show_icons=true)
-
-[![WuJune's GitHub stats](https://github-readme-stats.vercel.app/api?username=WuJune)](https://github.com/anuraghazra/github-readme-stats)
-
 
