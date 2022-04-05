@@ -21,7 +21,8 @@ Hi, I'm **WuJune**.
 
 * currently learning some Golang, Cpp, Python, Vue.
 
-* looking to collaborate on distributed storage or database.
+<!-- * looking to collaborate on distributed storage or database. -->
+* intersted at and intended to learn distributed storage or database.
 
 ![WuJune's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WuJune&layout=compact&hide_border=true&langs_count=10)
 
