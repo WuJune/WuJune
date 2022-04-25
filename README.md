@@ -31,7 +31,7 @@ Hi, I'm **WuJune**.
 ### Dashboard
 
 <!-- ![WuJune's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WuJune&layout=compact&langs_count=10&count_private=true) -->
-![WuJune's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WuJune&langs_count=10&layout=compact&count_private=true&hide=html,css)
+![WuJune's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WuJune&langs_count=10&layout=compact&count_private=true&hide=html,css,javasript)
 
 <!-- [![WuJune's GitHub stats](https://github-readme-stats.vercel.app/api?username=WuJune)](https://github.com/anuraghazra/github-readme-stats) -->
 ![WuJune's GitHub stats](https://github-readme-stats.vercel.app/api?username=WuJune&hide=issues&show_icons=true)
