@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Hi, I'm **WuJune**.
 
-* Currently working on BJTU MePro.
+* Currently working at BJTU MePro.
 
 * Learning some Golang, Cpp, Python, Vue.
 
