@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 Hi, I'm **WuJune**.
 
-* Currently working at BJTU MePro.
-
 * Learning some C/CPP, Python, Vue.
 
 <!-- * looking to collaborate on distributed storage or database. -->
